@@ -23,3 +23,5 @@ If successful, a package.json file will be created on project folder.
     (or)
 
     npm run start
+
+![image](https://github.com/user-attachments/assets/0f5712d1-7994-44e2-9126-5468a2351104)
